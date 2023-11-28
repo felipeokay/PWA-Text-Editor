@@ -19,6 +19,9 @@ Your task is to build a text editor that runs in the browser. The app will be a 
 
 ## Usage 
 
+Link to deployed app
+
+![Alt text](JATE.png)
 
 --- 
 
