@@ -19,7 +19,7 @@ Your task is to build a text editor that runs in the browser. The app will be a 
 
 ## Usage 
 
-Link to deployed app
+Link to: [deployed app](https://thawing-forest-16589-e5c569fbb6aa.herokuapp.com/)
 
 ![Alt text](JATE.png)
 
