@@ -2,6 +2,7 @@
 
 ## Description 
 
+This app functions as an online text editor, enabling users to generate notes or code snippets. The incorporation of service workers and Cache APIs ensures the app's full functionality even in offline mode, allowing users to revisit pages previously accessed while offline. 
 
 ---
 
